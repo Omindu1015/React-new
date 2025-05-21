@@ -1,10 +1,10 @@
 
-import Message from './Message'; // Capitalization matters in imports
+import ListGroup from "./Components/ListGroup";
 
 function App() {
   return (
     <div>
-      <Message />
+      <ListGroup />
     </div>
   );
 }

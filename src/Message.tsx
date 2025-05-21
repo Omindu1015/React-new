@@ -1,5 +1,8 @@
 //PascalCasing
 function Messaage(){
-    return<h1>Hello World</h1>
+    const name="Omindu"
+
+    
+    return<h1>Hello {name}</h1>
 }
 export default Messaage;
